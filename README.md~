@@ -120,3 +120,8 @@ FICHIERS sont « FICHIER1 FICHIER2 » ou « RÉP1 RÉP2 » ou « RÉP FICHIER...
 Si --from-file ou --to-file sont fournis, il n'y a pas de restriction sur les FICHIERS.
 Si le FICHIER spécifié est « - » alors lire depuis l'entrée standard.
 Le statut de fin d'exécution est 0 si les entrées sont les mêmes, 1 si différentes et 2 si problématiques.
+
+
+Signalez les bugs à: bug-diffutils@gnu.org
+site internet de GNU diffutils: <http://www.gnu.org/software/diffutils/>
+Aide générale sur l'utilisation des logiciels GNU: <http://www.gnu.org/gethelp/>
