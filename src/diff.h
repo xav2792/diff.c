@@ -3,6 +3,7 @@
 
 #define TIRET 45
 #define q 113
+#define s 115
 
 
 void diff(char * parametre);

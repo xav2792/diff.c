@@ -35,7 +35,7 @@ int main ( int argc, char** argv ) {
 								 
 			
 			if(brief(fichier1, fichier2) == 0) {
-				printf("les fichiers sont different");
+				printf("Les fichiers %s et %s sont différents", argv[2], argv[3]);
 			} else {
 				printf("les fichiers sont egaux");
 			}
